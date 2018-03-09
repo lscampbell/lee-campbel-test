@@ -1,0 +1,141 @@
+[
+  {
+    "indicativePriceData": "",
+    "isSale": true,
+    "isIndicative": false,
+    "discountMessage": "70%",
+    "lookbookDescription": "",
+    "priceData": {
+      "percentageDiscount": 70,
+      "currencyIso": "GBP",
+      "taxIncluded": "",
+      "formattedWasPrice": "£405",
+      "priceType": "BUY",
+      "value": 121,
+      "formattedWasPriceWithoutDecimals": "£405",
+      "wasPrice": 405,
+      "maxQuantity": "",
+      "minQuantity": "",
+      "formattedValue": "£121",
+      "formattedPriceWithoutDecimals": "£121"
+    },
+    "isOneSize": false,
+    "designerData": {
+      "designerCategoryCode": "",
+      "name": "Adam Lippes",
+      "code": "adam-lippes",
+      "url": "/mens/designers/adam-lippes"
+    },
+    "code": "1095470",
+    "url": "/products/Adam-Lippes-V-neck-wool-sweater-1095470",
+    "stock": {
+      "storesStockRestrictedQty": "",
+      "stockLevelStatus": {
+        "code": "lowStock",
+        "type": "StockLevelStatus"
+      },
+      "stockLevel": 1
+    },
+    "thumbnail": "//assetsprx.matchesfashion.com/img/product/1095470_1_thumbnail.jpg",
+    "isVisibleAfterLastSold": false,
+    "approvalStatus": "approved",
+    "name": "V-neck wool sweater",
+    "lookbookId": "",
+    "sizeTaxonomyName": "Mens Clothing",
+    "slug": "",
+    "taxAndDutyMessage": "",
+    "variantOptions": [{
+        "stock": {
+          "storesStockRestrictedQty": "",
+          "stockLevelStatus": {
+            "code": "lowStock",
+            "type": "StockLevelStatus"
+          },
+          "stockLevel": 1
+        },
+        "comingSoon": "",
+        "sizeData": {
+          "taxonomyName": "Mens Clothing",
+          "sortOrder": 40,
+          "baseCode": "10011",
+          "value": "S",
+          "oneSize": false,
+          "available": "",
+          "code": "20282"
+        },
+        "priceData": "",
+        "code": "1095470000004",
+        "url": "/products/Adam-Lippes-V-neck-wool-sweater-1095470"
+      }, 
+      {
+        "stock": {
+          "storesStockRestrictedQty": "",
+          "stockLevelStatus": {
+            "code": "outOfStock",
+            "type": "StockLevelStatus"
+          },
+          "stockLevel": 0
+        },
+        "comingSoon": false,
+        "sizeData": {
+          "taxonomyName": "Mens Clothing",
+          "sortOrder": 50,
+          "baseCode": "10012",
+          "value": "M",
+          "oneSize": false,
+          "available": "",
+          "code": "20283"
+        },
+        "priceData": "",
+        "code": "1095470000005",
+        "url": "/products/Adam-Lippes-V-neck-wool-sweater-1095470"
+      }, 
+      {
+        "stock": {
+          "storesStockRestrictedQty": "",
+          "stockLevelStatus": {
+            "code": "outOfStock",
+            "type": "StockLevelStatus"
+          },
+          "stockLevel": 0
+        },
+        "comingSoon": false,
+        "sizeData": {
+          "taxonomyName": "Mens Clothing",
+          "sortOrder": 60,
+          "baseCode": "10013",
+          "value": "L",
+          "oneSize": false,
+          "available": "",
+          "code": "20284"
+        },
+        "priceData": "",
+        "code": "1095470000006",
+        "url": "/products/Adam-Lippes-V-neck-wool-sweater-1095470"
+      }, 
+      {
+        "stock": {
+          "storesStockRestrictedQty": "",
+          "stockLevelStatus": {
+            "code": "outOfStock",
+            "type": "StockLevelStatus"
+          },
+          "stockLevel": 0
+        },
+        "comingSoon": false,
+        "sizeData": {
+          "taxonomyName": "Mens Clothing",
+          "sortOrder": 70,
+          "baseCode": "10014",
+          "value": "XL",
+          "oneSize": false,
+          "available": "",
+          "code": "20285"
+        },
+        "priceData": "",
+        "code": "1095470000007",
+        "url": "/products/Adam-Lippes-V-neck-wool-sweater-1095470"
+      }
+    ]
+  }
+]
